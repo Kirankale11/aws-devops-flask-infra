@@ -1,0 +1,16 @@
+aws-devops-flask-infra/
+├── app/
+│   ├── app.py
+│   └── requirements.txt
+├── docker/
+│   └── Dockerfile
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   └── terraform.tfvars
+├── scripts/
+│   └── init.sh
+├── .gitignore
+├── README.md
+└── LICENSE
